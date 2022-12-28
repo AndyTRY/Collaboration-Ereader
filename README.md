@@ -1,6 +1,8 @@
 # **Alkitab**
 ### [Project Demo](https://youtu.be/0GMP3xIboAI)
-### [https://www.cscc09-alkitab.ninja/](https://www.cscc09-alkitab.ninja/)
+
+## Post-Commentary ##
+The headings following README is original project proposal. However, our team unexpectley lost a member when the project began, meaning a decent amount of work was not accomplished. This included the plan of being an Provider through Oauth and other frontend features. I was responsible for the backend and a specific portion of the frontend. My partner, Stephen, was responsible for the devops and the majority of the frontend.
 
 ## **Description**
 Alkitab is a platform to view, share, discuss, and read e-books. Users can sign up, and browse a catalog of books.
