@@ -4,6 +4,9 @@
 ## Post-Commentary ##
 The following README is the original project proposal. However, our team unexpectley lost a member when the project began, meaning a decent amount of work was not accomplished. This included the plan of being a Provider through Oauth and other frontend features. I was responsible for the backend and a specific portion of the frontend. My partner, Stephen, was responsible for the devops and the majority of the frontend.
 
+## Tech Specs ##
+Certain technical specification docs are posted [Here](https://inspired-coral-condor.slab.com/public/topics/tech-specs-24vi6lwu)
+
 ## **Description**
 Alkitab is a platform to view, share, discuss, and read e-books. Users can sign up, and browse a catalog of books.
 
